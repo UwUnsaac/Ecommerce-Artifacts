@@ -16,11 +16,11 @@ You can see the web application in production [here](https://e-commerce-uwunsaac
 At the same time, you can see some captions of the application down here:
 - Login
 
-![image](https://user-images.githubusercontent.com/72516305/126578838-d4f8d0bd-47d1-4580-9dd5-7529f456ed2b.png)
+![image](https://user-images.githubusercontent.com/72516305/126580739-403d73af-0a0e-494f-8af9-61decb9336d1.png)
 
 - Register
 
-![image](https://user-images.githubusercontent.com/72516305/126578875-5c62c343-b485-4c2c-9bd3-7463e953f462.png)
+![image](https://user-images.githubusercontent.com/72516305/126580775-9437c5a4-7e29-40fa-8ea6-65f4416cafa8.png)
 
 - Dashboard
 
