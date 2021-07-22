@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4677945.svg)](https://doi.org/10.5281/zenodo.4677945)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5121030.svg)](https://doi.org/10.5281/zenodo.5121030)
 
 # Ecommerce UwUnsaac - Artifacts
 In this repository you will found the artifacts made during the development of the [Ecommerce-Reactjs](https://github.com/UwUnsaac/Ecommerce-Reactjs) and [Ecommerce-Nodejs](https://github.com/UwUnsaac/Ecommerce-Nodejs) project, in the Software Engineering I course of the Professional School of Software and Systems Engineering of the Universidad Nacional of San Antonio Abad del Cusco in the 2020-II semester.
