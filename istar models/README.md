@@ -1,4 +1,6 @@
-# RELEVANT INFORMATION ABOUT 'DIAGRAM OF REACTIVE SYSTEMS'
+# Relevant information about 'Diagram of Reactive Systems'
+
+This readme explains the React Agent of the [reactive e-commerce iStar model](https://github.com/UwUnsaac/Ecommerce-Artifacts/blob/main/istar%20models/reactive%20e-commerce%20iStar%20model.png).
 
 ## Terms used
 - ***(Q)***: Quality
@@ -20,7 +22,7 @@ The system responds in a timely manner if at all possible. Responsiveness is the
   When interacting with a system, a user and its devices can set the parameters (inputs) needed for rendering the elements to achieve a service
 
 * ### React DOM ***(R)***
-  [React DOM](https://reactjs.org/docs/rendering-elements.html ) compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state. 
+  [React DOM](https://reactjs.org/docs/rendering-elements.html) compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state. 
 
 
 ## Elasticity ***(Q)***
@@ -72,3 +74,11 @@ The system stays responsive in the face of failure. This applies not only to hig
 
 * ### Reduce coupling ***(T)***
 * ### Increase cohesion ***(T)***
+
+## The sources used in this description are taken from the following websites:
+
+1. Declarative React. Available in: https://reactjs.org/
+2. React DOM. Available in: https://reactjs.org/docs/rendering-elements.html
+3. React, UseState. Available in: https://preactjs.com/guide/v10/hooks/#usestate
+4. Async-Await. Available in: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+5. Cohesion and Coupling. Available in: https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/
