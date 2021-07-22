@@ -11,7 +11,7 @@ In this repository you will found the artifacts made during the development of t
 
 Since we are from an Latin American university you have to know that our work was originally made in Spanish, so the website is in Spanish too.
 
-You can see the web application in production [here](https://e-commerce-uwunsaac.herokuapp.com).
+You can see the web application in production [here](https://e-commerce-uwunsaac.herokuapp.com). Our project has hosting in a Heroku free plan, so the server sometimes fall sleep, if you notice this when you try to open the website, please refresh your browser pressing F5 or ctrl+R.
 
 At the same time, you can see some captions of the application down here:
 - Login
